@@ -40,3 +40,7 @@ dll):
   konvensi `doc/phases/todo/*.md` repo tersebut. Versi di sini adalah
   tulisan ulang generik, bukan salinan — lihat
   `skills/exec-todo/references/project-example.md` untuk pola aslinya.
+
+## [anthropics/skills](https://github.com/anthropics/skills) (MIT)
+
+- `webapp-testing` — toolkit Playwright untuk verifikasi aplikasi web lokal (diadaptasi ke format superset repo ini)

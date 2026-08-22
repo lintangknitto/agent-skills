@@ -1,0 +1,7 @@
+---
+description: Toolkit untuk menguji aplikasi web lokal dengan Playwright — verifikasi frontend, debugging UI, capture screenshot, cek log browser. Selalu gunakan saat perlu verifikasi di browser nyata.
+globs: ["**/*.{ts,tsx,js,jsx}"]
+alwaysApply: false
+---
+
+Selalu gunakan Playwright MCP untuk menguji aplikasi web lokal: navigasi, klik, isi form, capture snapshot DOM, cek console dan network, ambil screenshot sebagai evidence. Pair dengan test-driven-development untuk unit test dan systematic-debugging saat test gagal.
